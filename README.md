@@ -1,0 +1,2 @@
+# 11_ActivityLifecycle
+此專案能夠顯示兩個Activity在切換的過程的生命週期
